@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @tinvujasinovic
 - 👀 I’m interested in software development and programming 
-- 🌱 I’m currently working on getting my Master's degree (Information and Software Engineering @ https://www.foi.unizg.hr/)
 - 📫 How to reach me:
   * LinkedIn: [Tin Vujasinović](https://www.linkedin.com/in/tin-vujasinovic/)
   * Email: tinvujasinovic@gmail.com
